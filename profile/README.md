@@ -15,3 +15,15 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=HDLGenHub" alt="Organization Views">
 </p>
+
+
+<!-- Copy-paste in your Readme.md file -->
+## Code Submission
+<a href="https://next.ossinsight.io/widgets/official/compose-org-activity-growth-total?activity=commits&owner_id=171536980&period=past_28_days" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-org-activity-growth-total/thumbnail.png?activity=commits&owner_id=171536980&period=past_28_days&image_size=4x7&color_scheme=dark" width="657" height="auto">
+    <img alt="Commits trends of HDLGenHub" src="https://next.ossinsight.io/widgets/official/compose-org-activity-growth-total/thumbnail.png?activity=commits&owner_id=171536980&period=past_28_days&image_size=4x7&color_scheme=light" width="657" height="auto">
+  </picture>
+</a>
+
+<!-- Made with [OSS Insight](https://ossinsight.io/) -->
