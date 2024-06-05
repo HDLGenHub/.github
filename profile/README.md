@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello and Welcome👋
+
+#HDL Gen Hub is a project of creating an E-Learning platform to teach Hardware Description Languages, specially Verilog.
 
 <!--
 
@@ -10,3 +12,6 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=HDLGenHub" alt="Organization Views">
+</p>
