@@ -37,4 +37,14 @@
 </a>
 
 <!-- Made with [OSS Insight](https://ossinsight.io/) -->
+<!-- Copy-paste in your Readme.md file -->
+
+<a href="https://next.ossinsight.io/widgets/official/compose-org-participants-roles-ratio?period=past_28_days&owner_id=171536980" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-org-participants-roles-ratio/thumbnail.png?period=past_28_days&owner_id=171536980&image_size=5x5&color_scheme=dark" width="465" height="auto">
+    <img alt="Participants roles of HDLGenHub" src="https://next.ossinsight.io/widgets/official/compose-org-participants-roles-ratio/thumbnail.png?period=past_28_days&owner_id=171536980&image_size=5x5&color_scheme=light" width="465" height="auto">
+  </picture>
+</a>
+
+<!-- Made with [OSS Insight](https://ossinsight.io/) -->
 
