@@ -19,26 +19,32 @@
 
 <!-- Copy-paste in your Readme.md file -->
 ## Code Submission
-<a href="https://next.ossinsight.io/widgets/official/compose-org-activity-growth-total?activity=commits&owner_id=171536980&period=past_28_days" target="_blank" style="display: block" align="center">
+<div align="center">
+  <a href="https://next.ossinsight.io/widgets/official/compose-org-activity-growth-total?activity=commits&owner_id=171536980&period=past_28_days" target="_blank" style="display: block" align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-org-activity-growth-total/thumbnail.png?activity=commits&owner_id=171536980&period=past_28_days&image_size=4x7&color_scheme=dark" width="657" height="auto">
-    <img alt="Commits trends of HDLGenHub" src="https://next.ossinsight.io/widgets/official/compose-org-activity-growth-total/thumbnail.png?activity=commits&owner_id=171536980&period=past_28_days&image_size=4x7&color_scheme=light" width="657" height="auto">
+      <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-org-activity-growth-total/thumbnail.png?activity=commits&owner_id=171536980&period=past_28_days&image_size=4x7&color_scheme=dark" width="657" height="auto">
+      <img alt="Commits trends of HDLGenHub" src="https://next.ossinsight.io/widgets/official/compose-org-activity-growth-total/thumbnail.png?activity=commits&owner_id=171536980&period=past_28_days&image_size=4x7&color_scheme=light" width="657" height="auto">
+    </picture>
+  </a>
+  <!-- Copy-paste in your Readme.md file -->
+
+<a href="https://next.ossinsight.io/widgets/official/compose-last-28-days-stats?repo_id=736503311" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-last-28-days-stats/thumbnail.png?repo_id=736503311&image_size=auto&color_scheme=dark" width="655" height="auto">
+    <img alt="Performance Stats of HDLGenHub/HDLGenHub - Last 28 days" src="https://next.ossinsight.io/widgets/official/compose-last-28-days-stats/thumbnail.png?repo_id=736503311&image_size=auto&color_scheme=light" width="655" height="auto">
   </picture>
 </a>
 
 <!-- Made with [OSS Insight](https://ossinsight.io/) -->
-<!-- Copy-paste in your Readme.md file -->
-
-<a href="https://next.ossinsight.io/widgets/official/compose-org-activity-active-ranking?activity=participants&owner_id=171536980&period=past_12_months" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-org-activity-active-ranking/thumbnail.png?activity=participants&owner_id=171536980&period=past_12_months&image_size=4x3&color_scheme=dark" width="273" height="auto">
-    <img alt="Active participants of HDLGenHub" src="https://next.ossinsight.io/widgets/official/compose-org-activity-active-ranking/thumbnail.png?activity=participants&owner_id=171536980&period=past_12_months&image_size=4x3&color_scheme=light" width="273" height="auto">
-  </picture>
-</a>
+</div>
 
 <!-- Made with [OSS Insight](https://ossinsight.io/) -->
 <!-- Copy-paste in your Readme.md file -->
 
+<!-- Made with [OSS Insight](https://ossinsight.io/) -->
+<!-- Copy-paste in your Readme.md file -->
+
+<<div align="center">
 <a href="https://next.ossinsight.io/widgets/official/compose-org-participants-roles-ratio?period=past_28_days&owner_id=171536980" target="_blank" style="display: block" align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-org-participants-roles-ratio/thumbnail.png?period=past_28_days&owner_id=171536980&image_size=5x5&color_scheme=dark" width="465" height="auto">
@@ -47,4 +53,10 @@
 </a>
 
 <!-- Made with [OSS Insight](https://ossinsight.io/) -->
-
+<a href="https://next.ossinsight.io/widgets/official/compose-org-activity-active-ranking?activity=participants&owner_id=171536980&period=past_12_months" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-org-activity-active-ranking/thumbnail.png?activity=participants&owner_id=171536980&period=past_12_months&image_size=4x3&color_scheme=dark" width="273" height="auto">
+    <img alt="Active participants of HDLGenHub" src="https://next.ossinsight.io/widgets/official/compose-org-activity-active-ranking/thumbnail.png?activity=participants&owner_id=171536980&period=past_12_months&image_size=4x3&color_scheme=light" width="273" height="auto">
+  </picture>
+</a>
+</div>
