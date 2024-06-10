@@ -52,11 +52,3 @@
   </picture>
 </a>
 
-<!-- Made with [OSS Insight](https://ossinsight.io/) -->
-<a href="https://next.ossinsight.io/widgets/official/compose-org-activity-active-ranking?activity=participants&owner_id=171536980&period=past_12_months" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-org-activity-active-ranking/thumbnail.png?activity=participants&owner_id=171536980&period=past_12_months&image_size=4x3&color_scheme=dark" width="273" height="auto">
-    <img alt="Active participants of HDLGenHub" src="https://next.ossinsight.io/widgets/official/compose-org-activity-active-ranking/thumbnail.png?activity=participants&owner_id=171536980&period=past_12_months&image_size=4x3&color_scheme=light" width="273" height="auto">
-  </picture>
-</a>
-</div>
